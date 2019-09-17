@@ -1,5 +1,5 @@
 html {
-  background: #D96B6E;
+  background: #2D519F;
   background-size: cover;
   text-align: center;
 }
@@ -14,15 +14,18 @@ body {
 }
     
 .clock {
+  background-image: url(image/clock.png);
+  background-size: contain;
+  background-color: #fff;
   width: 10rem;
   height: 10rem;
-  border: 2px dotted white;
+  border: 3px solid #F8C8DF;
   border-radius: 50%;
   margin: 50px auto;
   position: relative;
   padding: 2rem;
   box-shadow: 0 0 0 4px rgba(0,0,0,0.1),
-              inset 0 0 0 3px #EFEFEF,
+              inset 0 0 0 3px #F8C8DF,
               inset 0 0 10px gray,
               0 0 10px rgba(0,0,0,0.2);
 }
@@ -36,7 +39,8 @@ body {
 
 .hand {
   width: 50%;
-  height: 6px;
+  height: 3px;
+  background: #F8C8DF;
   position: absolute;
   top: 50%;
   transform-origin: 100%;
@@ -46,30 +50,30 @@ body {
 }
 
 .hour-hand {
-  background-color: #555;
-  border-radius: 2px;
+  background-color: #AEB7B3;
+  border-radius: 5px;
   box-shadow: 0 0 2px rgba(0,0,0,.2);
 }
 
 .min-hand {
-  background-color: #555;
-  border-radius: 2px;
+  background-color: #AEB7B3;
+  border-radius: 5px;
   box-shadow: 0 0 2px rgba(0,0,0,.2);
 }
 
 .second-hand {
-  background-color: #a00;
-  border-radius: 2px;
+  background-color: #F299C1;
+  border-radius: 5px;
   box-shadow: 0 0 2px rgba(0,0,0,.2);
 }
 
 .axis {
-  background: white;
-  width: 12px;
-  height: 12px;
-  border-radius: 12px;
+  background: #F299C1;
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
   position: absolute;
-  top: 49%;
+  top: 46%;
   box-shadow: 0 0 2px rgba(0,0,0,.2);
-  right: 47%;
+  right: 46%;
   }
