@@ -9,4 +9,4 @@
 - [x] [05 - Flex Panel Gallery](https://boring-feynman-12f5f8.netlify.com/)
 - [x] [06 - Type Ahead](https://nostalgic-ardinghelli-49b9bb.netlify.com)
 - [x] [07 - Array Cardio Day 2]()
-
+- [x] [08 - Fun with HTML5 Canvas]()
