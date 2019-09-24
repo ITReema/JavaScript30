@@ -8,5 +8,5 @@
 - [x] [04 - Array Cardio Day 1 ](https://compassionate-goodall-bc6991.netlify.com)
 - [x] [05 - Flex Panel Gallery](https://boring-feynman-12f5f8.netlify.com/)
 - [x] [06 - Type Ahead](https://nostalgic-ardinghelli-49b9bb.netlify.com)
-- [x] [07 - Array Cardio Day 2]()
+- [x] [07 - Array Cardio Day 2](https://blissful-panini-124f53.netlify.com/)
 - [x] [08 - Fun with HTML5 Canvas]()
