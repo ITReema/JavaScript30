@@ -10,3 +10,4 @@
 - [x] [06 - Type Ahead](https://nostalgic-ardinghelli-49b9bb.netlify.com)
 - [x] [07 - Array Cardio Day 2](https://blissful-panini-124f53.netlify.com/)
 - [x] [08 - Fun with HTML5 Canvas](https://jovial-borg-9f2952.netlify.com/)
+- [x] [09 - Dev Tools Domination]()
