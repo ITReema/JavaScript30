@@ -13,3 +13,4 @@
 - [x] [09 - Dev Tools Domination](https://competent-shaw-5d4a09.netlify.com/)
 - [x] [10 - Hold Shift and Check Checkboxes](https://stupefied-yonath-e78a9c.netlify.com/)
 - [x] [11 - Custom Video Player]()
+- [x] [12 - Key Sequence Detection]()
