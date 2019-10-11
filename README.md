@@ -20,3 +20,4 @@
 - [x] [16 - Mouse Move Shadow]()
 - [x] [17 - Sort Without Articles]()
 - [x] [18 - Adding Up Times with Reduce]()
+- [x] [19 - Webcam Fun]()
