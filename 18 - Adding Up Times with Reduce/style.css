@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #fffbf6;
+  background-size: cover;
+  align-items: center;
+  
+}
+
+span  {
+  color: rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  text-align: right;
+  width: 80%;
+
+}
+
+div {
+  text-align: center;
+  color: gray;
+}
+
+
+
+.videos {
+  list-style: inside square;
+  font-size: 20px;
+  background: white;
+  width: 500px;
+  margin: auto;
+  padding: 0;
+  box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+.videos li {
+  border-bottom: 1px solid #efefef;
+  padding: 20px;
+  list-style-type: none;
+}
+
+.videos li:last-child {
+  border-bottom: 0;
+}
+
