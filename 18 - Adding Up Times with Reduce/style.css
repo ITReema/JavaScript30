@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: sans-serif;
-  background-color: #fffbf6;
+  background-color: #d8e4e6;
   background-size: cover;
   align-items: center;
   
@@ -11,7 +11,7 @@ span  {
   color: rgba(0, 0, 0, 0.1);
   display: inline-block;
   text-align: right;
-  width: 80%;
+  width: 90%;
 
 }
 
@@ -20,25 +20,22 @@ div {
   color: gray;
 }
 
-
-
 .videos {
   list-style: inside square;
   font-size: 20px;
   background: white;
-  width: 500px;
+  width: 80%;
   margin: auto;
   padding: 0;
-  box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.05);
 }
 
 .videos li {
   border-bottom: 1px solid #efefef;
-  padding: 20px;
+  padding: 30px;
   list-style-type: none;
 }
 
 .videos li:last-child {
   border-bottom: 0;
 }
-
