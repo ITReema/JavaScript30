@@ -21,3 +21,4 @@
 - [x] [17 - Sort Without Articles]()
 - [x] [18 - Adding Up Times with Reduce]()
 - [x] [19 - Webcam Fun]()
+- [x] [20 - Speech Detection]()
