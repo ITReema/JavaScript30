@@ -23,3 +23,4 @@
 - [x] [19 - Webcam Fun]()
 - [x] [20 - Speech Detection]()
 - [x] [21 - Geolocation]()
+- [x] [22 - Follow Along Link Highlighter]()
