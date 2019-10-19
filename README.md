@@ -22,3 +22,4 @@
 - [x] [18 - Adding Up Times with Reduce]()
 - [x] [19 - Webcam Fun]()
 - [x] [20 - Speech Detection]()
+- [x] [21 - Geolocation]()
