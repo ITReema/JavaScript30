@@ -24,3 +24,4 @@
 - [x] [20 - Speech Detection]()
 - [x] [21 - Geolocation]()
 - [x] [22 - Follow Along Link Highlighter]()
+- [x] [23 - Speech Synthesis]()
