@@ -25,3 +25,4 @@
 - [x] [21 - Geolocation]()
 - [x] [22 - Follow Along Link Highlighter]()
 - [x] [23 - Speech Synthesis]()
+- [x] [24 - Sticky Nav]()
