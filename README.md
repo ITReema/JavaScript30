@@ -26,3 +26,4 @@
 - [x] [22 - Follow Along Link Highlighter]()
 - [x] [23 - Speech Synthesis]()
 - [x] [24 - Sticky Nav]()
+- [x] [25 - Event Capture, Propagation, Bubbling and Once]()
