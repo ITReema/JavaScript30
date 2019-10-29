@@ -27,3 +27,4 @@
 - [x] [23 - Speech Synthesis]()
 - [x] [24 - Sticky Nav]()
 - [x] [25 - Event Capture, Propagation, Bubbling and Once]()
+- [x] [26 - Stripe Follow Along Nav]()
