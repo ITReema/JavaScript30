@@ -28,3 +28,4 @@
 - [x] [24 - Sticky Nav]()
 - [x] [25 - Event Capture, Propagation, Bubbling and Once]()
 - [x] [26 - Stripe Follow Along Nav]()
+- [x] [27 - Click and Drag]()
