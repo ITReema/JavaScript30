@@ -29,3 +29,4 @@
 - [x] [25 - Event Capture, Propagation, Bubbling and Once]()
 - [x] [26 - Stripe Follow Along Nav]()
 - [x] [27 - Click and Drag]()
+- [x] [28 - Video Speed Controller]()
