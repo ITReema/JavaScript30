@@ -31,3 +31,4 @@
 - [x] [27 - Click and Drag]()
 - [x] [28 - Video Speed Controller]()
 - [x] [29 - Countdown Timer]()
+- [x] [30 - Whack A Mole]()
