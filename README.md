@@ -30,3 +30,4 @@
 - [x] [26 - Stripe Follow Along Nav]()
 - [x] [27 - Click and Drag]()
 - [x] [28 - Video Speed Controller]()
+- [x] [29 - Countdown Timer]()
